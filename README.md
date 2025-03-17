@@ -1,6 +1,6 @@
 # RonakhAILabs 🤖
 
-To run: https://ronakhailabs-pnxrrz6wr-ronakh-shariffs-projects.vercel.app/
+To run: https://ronakh-ai-labs-backend.onrender.com/
 
 A comprehensive AI platform featuring multiple specialized AI assistants powered by Google's Generative AI (Gemini 1.5 Pro). Built with a modern, responsive UI and secure architecture, RonakhAILabs provides intelligent assistance across various domains.
 
